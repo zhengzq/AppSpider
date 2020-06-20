@@ -1,0 +1,26 @@
+{
+  "name": "auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "appium-wx": "node appiums/index.js wx",
+    "appium-slk": "node appiums/index.js slk",
+    "appium-dd": "node appiums/index.js dd",
+    "anyproxy": "node anyproxy/index.js",
+    "store": "dotnet run --project store/Zq.Runner/Zq.Runner.csproj"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "anyproxy": "^4.1.0",
+    "appium": "^1.15.1",
+    "node-cmd": "^3.0.0",
+    "node-run-cmd": "^1.0.1",
+    "wd": "^1.11.4",
+    "when": "^3.7.8"
+  }
+}
