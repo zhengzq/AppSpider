@@ -118,10 +118,6 @@ npm run start
 ![](https://github.com/zhengzq/AppSpider/blob/master/images/wx.jpg)
 ![](https://github.com/zhengzq/AppSpider/blob/master/images/zfb.jpg)
 
-## 其他
-
-如需指导可加QQ 4062499, 有偿提供指导.
-
 ## License
 
 MIT License
