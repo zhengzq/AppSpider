@@ -112,12 +112,6 @@ config.js
 
 npm run start
 
-
-## 捐赠
-
-![](https://github.com/zhengzq/AppSpider/blob/master/images/wx.jpg)
-![](https://github.com/zhengzq/AppSpider/blob/master/images/zfb.jpg)
-
 ## License
 
 MIT License
